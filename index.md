@@ -8,7 +8,7 @@
 
 ## 反應型
 16型人格中偏向「ESFP」和「ESTP」者
-如果你認為自己屬於此類夥伴，請點選 [此處]()
+如果你認為自己屬於此類夥伴，請點選 [此處](https://github.com/KCTsengxzxg/eyyac3WS1/blob/main/1.md)
 
 ## 探索型
 16型人格中偏向「ENFP」和「ENTP」者
